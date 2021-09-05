@@ -15,8 +15,8 @@ exports.fetchToken = async (data) => {
     method: 'POST',
     data: qs.stringify({
       grant_type: 'client_credentials',
-      client_id: 'OK0IGtf9Vx2tvyZmRkmz68UsQieb7obD',
-      client_secret: 'ulyMOotRtfZSEpKL',
+      client_id: 'OK0IGtf9Vx2tvyZmRkmz68UsQieb7d32',
+      client_secret: 'ulyMOotRtfZSEp34343L',
     }),
     headers: {
       Accept: 'application/json',
